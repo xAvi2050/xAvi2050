@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Avijit Rajak
+# Hi, I'm Avijit Rajak
 
 ### Full-Stack JavaScript Developer • AI Automation Builder • Entrepreneur
 
@@ -17,17 +17,17 @@ Building scalable web applications, intelligent automations, and software that s
 
 ---
 
-## 🚀 About Me
+## About Me
 
-* 💻 Full-Stack JavaScript Developer
-* 🤖 Building AI-powered automation workflows with n8n & LLMs
-* ⚡ Passionate about backend architecture and scalable systems
-* 🌱 Currently learning Docker, DevOps, Cloud Infrastructure & AI Agents
-* 🎯 Goal: Build software that reaches millions of users
+* Full-Stack JavaScript Developer
+* Building AI-powered automation workflows with n8n & LLMs
+* Passionate about backend architecture and scalable systems
+* Currently learning Docker, DevOps, Cloud Infrastructure & AI Agents
+* Goal: Build software that reaches millions of users
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -52,28 +52,6 @@ Building scalable web applications, intelligent automations, and software that s
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" />
 </p>
-
----
-
-## ⭐ Featured Projects
-
-### 🎥 Video Streaming Platform
-
-A YouTube-inspired backend application featuring authentication, subscriptions, playlists, comments, likes, video uploads and secure REST APIs.
-
-**Tech:** Node.js • Express • MongoDB • JWT • Cloudinary
-
-➡️ https://github.com/xAvi2050/Video-App
-
----
-
-### 📝 BlogX
-
-A modern blogging platform built with React and Appwrite.
-
-**Tech:** React • Appwrite • JavaScript
-
-➡️ https://github.com/xAvi2050/blogx
 
 ---
 
@@ -105,7 +83,7 @@ A modern blogging platform built with React and Appwrite.
 
 ---
 
-## 💡 Current Focus
+## Current Focus
 
 * Building production-ready backend systems
 * AI Automation using n8n
@@ -119,7 +97,7 @@ A modern blogging platform built with React and Appwrite.
 
 <p>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/avijitrajak1111">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
