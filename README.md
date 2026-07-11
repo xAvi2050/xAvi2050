@@ -93,7 +93,7 @@ Building scalable web applications, intelligent automations, and software that s
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p>
 
