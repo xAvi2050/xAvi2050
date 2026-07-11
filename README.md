@@ -32,19 +32,19 @@ Building scalable web applications, intelligent automations, and software that s
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,cpp" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,redux" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
 ### Tools & DevOps
@@ -97,7 +97,7 @@ Building scalable web applications, intelligent automations, and software that s
 
 <p>
 
-<a href="https://www.linkedin.com/avijitrajak1111">
+<a href="https://www.linkedin.com/in/avijitrajak1111/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
