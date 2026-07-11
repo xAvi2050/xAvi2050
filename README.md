@@ -101,7 +101,7 @@ Building scalable web applications, intelligent automations, and software that s
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://avijit-rajak-ai.vercel.app">
+<a href="https://avijit-ai.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
